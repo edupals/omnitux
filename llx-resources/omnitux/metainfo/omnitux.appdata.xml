@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>omnitux</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>Omnitux</name>
+<name xml:lang="es">Omnitux, juegos educativos</name>
+<name xml:lang="ca_ES@valencia">Omnitux, jocs educatius</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Omnitux, jocs educatius</name>
+<name xml:lang="ca_ES">Omnitux, jocs educatius</name>
+<summary>An educational game based on multimedia elements</summary>
+<summary xml:lang="es">Juegos educativos basados en elementos multimedia</summary>
+<summary xml:lang="ca_ES@valencia">Jocs educatius basats en elements multimèdia</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Jocs educatius basats en elements multimèdia</summary>
+<summary xml:lang="ca_ES">Jocs educatius basats en elements multimèdia</summary>
+<description>
+<p>An educational game based on multimedia elements</p>
+<p xml:lang="es">Juegos educativos basados en elementos multimedia</p>
+<p xml:lang="ca_ES@valencia">Jocs educatius basats en elements multimèdia</p>
+<p xml:lang="ca_ES.UTF-8@valencia">Jocs educatius basats en elements multimèdia</p>
+<p xml:lang="ca_ES">Jocs educatius basats en elements multimèdia</p>
+</description>
+<categories>
+<category>Infantil</category>
+<category>LliureX</category>
+
+</categories>
+<icon type="stock">omnitux</icon>
+<provides><binary>/usr/bin/omnitux</binary></provides>
+<keywords>
+<keyword>Omnitux</keyword>
+<keyword>Omnitux,</keyword>
+<keyword>juegos</keyword>
+<keyword>educativos</keyword>
+<keyword>jocs</keyword>
+<keyword>educatius</keyword>
+
+</keywords>
+<developer_name>olav_2</developer_name>
+</component>

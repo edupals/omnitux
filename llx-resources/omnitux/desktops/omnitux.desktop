@@ -1,0 +1,21 @@
+[Desktop Entry]
+Encoding=UTF-8
+Path=/usr/share/omnitux
+Exec=/usr/bin/omnitux 
+Type=Application
+Categories=LliureX-Infantil;GTK
+Name=Omnitux
+Name[es]=Omnitux, juegos educativos
+Name[ca]=Omnitux, jocs educatius
+Name[ca_ES.UTF-8@valencia]=Omnitux, jocs educatius
+Name[ca_ES]=Omnitux, jocs educatius
+GenericName=Omnitux
+Comment=An educational game based on multimedia elements
+Comment[es]=Juegos educativos basados en elementos multimedia
+Comment[ca]=Jocs educatius basats en elements multimèdia
+Comment[ca_ES.UTF-8@valencia]=Jocs educatius basats en elements multimèdia
+Comment[ca_ES]=Jocs educatius basats en elements multimèdia
+Terminal=false
+StartupNotify=false
+Icon=omnitux
+TryExec=/usr/bin/omnitux

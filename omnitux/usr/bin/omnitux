@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd /usr/share/omnitux/bin
+
+python menu.py $*
