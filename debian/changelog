@@ -1,3 +1,9 @@
+omnitux (1.2.1-4bionic) bionic; urgency=medium
+
+  * Build release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 27 Mar 2019 16:42:17 +0100
+
 omnitux (1.2.1-3bionic) bionic; urgency=medium
 
   * Bionic release
