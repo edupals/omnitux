@@ -2,10 +2,10 @@ Source: omnitux
 Section: python
 Priority: optional
 Maintainer: Equipo LliureX <lliurex@gva.es>
-Uploaders:Luis Antonio Garcia Gisbert <garcia_luigis@gva.es>, Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>, Javier Garcia Escribano <garcia_javesc@gva.es>, Maria Teresa Llorca Llaser <llorca_mte@gva.es>, Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>, Alfons Lloret Sananton <lliurex_devel5@edu.gva.es>, Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>, David Montalva Furio <dmontalf@gmail.com>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>
+Uploaders: M.Angel Juan <m.angel.juan@gmail.com>, Raul Rodrigo Segura <lliurex_devel3@edu.gva.es>, Hector Garcia Huerta <lliurex_devel1@edu.gva.es>, Daniel Duran Vecino <daduve@gmail.com>, Juanma Navarro <juanma1980@gmail.com>, Juan Ramon Pelegrina <juapesai@hotmail.com>
 Build-Depends: llxsrchelper,debhelper (>= 7), quilt
 Homepage: http://omnitux.sourceforge.net/
-Standards-Version: 3.8.4
+Standards-Version: 3.9.5
 
 Package: omnitux
 Architecture: all
